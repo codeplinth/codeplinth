@@ -1,5 +1,12 @@
 <meta name="robots" content="index">
 
+<p align="center">
+<a href="https://kaggle.com/codeplinth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="codeplinth" height="30" width="30" /></a>
+<a href="https://twitter.com/tripathi_harsh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tripathi_harsh_" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/tripathiharsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tripathiharsh" height="30" width="30" /></a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Deriving value from data</h3>
 
@@ -11,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on [PyTorch Boot Camp](https://github.com/codeplinth/pytorchbootcamp)
 
-- 👨‍💻 All of my projects are available at [codeplinth](https://github.com/codeplinth)
+- 👨‍💻 All of my projects are available at [https://github.com/codeplinth](https://github.com/codeplinth)
 
 - 💬 Ask me about **Informatica, RDBMS, bash, Python, Spark**
 
@@ -21,7 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeplinth&show_icons=true" alt="codeplinth" /></p>
 
-<p align="center">
-<a href="https://kaggle.com/codeplinth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="codeplinth" height="30" width="30" /></a>
-</p>
 
