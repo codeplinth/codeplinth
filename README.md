@@ -1,15 +1,17 @@
+<meta name="robots" content="index">
+
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Deriving value from data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeplinth" alt="codeplinth" /> </p>
 
-- 🔭 I’m currently working on **PyTorch**
+- 🔭 I’m currently working on **Informatica**
 
 - 🌱 I’m currently learning **PyTorch**
 
 - 👯 I’m looking to collaborate on [PyTorch Boot Camp](https://github.com/codeplinth/pytorchbootcamp)
 
-- 👨‍💻 All of my projects are available at [https://github.com/codeplinth](https://github.com/codeplinth)
+- 👨‍💻 All of my projects are available at [codeplinth](https://github.com/codeplinth)
 
 - 💬 Ask me about **Informatica, RDBMS, bash, Python, Spark**
 
@@ -22,3 +24,4 @@
 <p align="center">
 <a href="https://kaggle.com/codeplinth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="codeplinth" height="30" width="30" /></a>
 </p>
+
